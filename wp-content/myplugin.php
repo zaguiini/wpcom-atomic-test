@@ -1,4 +1,5 @@
-<php 
+<php
 
 echo "Really powerful plugin about to run!";
 
+echo "Now with GitHub Actions auto-deploy! Maybe...";
