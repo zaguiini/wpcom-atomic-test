@@ -14,3 +14,4 @@ jobs:
         server: sftp.wp.com
         username: mk9287.wordpress.com
         password: ${{ secrets.FTP_PASSWORD }}
+        port: 21
