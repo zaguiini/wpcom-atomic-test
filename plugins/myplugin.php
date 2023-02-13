@@ -1,6 +1,6 @@
 <php
 
- // Test
+ // Test.
 
 echo "Really powerful plugin about to run!";
 
